@@ -1,0 +1,14 @@
+C:\Users\juanm\OneDrive\Documents\Juan Duarte\Programación Estructurada\Calculadora\CalculadoraBásica\bin\Debug\net9.0\CalculadoraBásica.exe
+C:\Users\juanm\OneDrive\Documents\Juan Duarte\Programación Estructurada\Calculadora\CalculadoraBásica\bin\Debug\net9.0\CalculadoraBásica.deps.json
+C:\Users\juanm\OneDrive\Documents\Juan Duarte\Programación Estructurada\Calculadora\CalculadoraBásica\bin\Debug\net9.0\CalculadoraBásica.runtimeconfig.json
+C:\Users\juanm\OneDrive\Documents\Juan Duarte\Programación Estructurada\Calculadora\CalculadoraBásica\bin\Debug\net9.0\CalculadoraBásica.dll
+C:\Users\juanm\OneDrive\Documents\Juan Duarte\Programación Estructurada\Calculadora\CalculadoraBásica\bin\Debug\net9.0\CalculadoraBásica.pdb
+C:\Users\juanm\OneDrive\Documents\Juan Duarte\Programación Estructurada\Calculadora\CalculadoraBásica\obj\Debug\net9.0\CalculadoraBásica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanm\OneDrive\Documents\Juan Duarte\Programación Estructurada\Calculadora\CalculadoraBásica\obj\Debug\net9.0\CalculadoraBásica.AssemblyInfoInputs.cache
+C:\Users\juanm\OneDrive\Documents\Juan Duarte\Programación Estructurada\Calculadora\CalculadoraBásica\obj\Debug\net9.0\CalculadoraBásica.AssemblyInfo.cs
+C:\Users\juanm\OneDrive\Documents\Juan Duarte\Programación Estructurada\Calculadora\CalculadoraBásica\obj\Debug\net9.0\CalculadoraBásica.csproj.CoreCompileInputs.cache
+C:\Users\juanm\OneDrive\Documents\Juan Duarte\Programación Estructurada\Calculadora\CalculadoraBásica\obj\Debug\net9.0\CalculadoraBásica.dll
+C:\Users\juanm\OneDrive\Documents\Juan Duarte\Programación Estructurada\Calculadora\CalculadoraBásica\obj\Debug\net9.0\refint\CalculadoraBásica.dll
+C:\Users\juanm\OneDrive\Documents\Juan Duarte\Programación Estructurada\Calculadora\CalculadoraBásica\obj\Debug\net9.0\CalculadoraBásica.pdb
+C:\Users\juanm\OneDrive\Documents\Juan Duarte\Programación Estructurada\Calculadora\CalculadoraBásica\obj\Debug\net9.0\CalculadoraBásica.genruntimeconfig.cache
+C:\Users\juanm\OneDrive\Documents\Juan Duarte\Programación Estructurada\Calculadora\CalculadoraBásica\obj\Debug\net9.0\ref\CalculadoraBásica.dll
