@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalculoDetriangulos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+99628faf53ba244dabf6147f9aa8f5f01de96c74")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ce435bbf8a9eb4029cce3a862e400b526afee0e")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalculoDetriangulos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalculoDetriangulos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
