@@ -45,9 +45,9 @@ else
 // Imprimimos el resultado
 if (esPrimo)
 {
-    Console.WriteLine($"{numero} es primo.");
+    Console.WriteLine($"\n{numero} es primo.\n");
 }
 else
 {
-    Console.WriteLine($"{numero} no es primo.");
+    Console.WriteLine($"\n{numero} no es primo.\n");
 }
