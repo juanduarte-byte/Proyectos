@@ -70,18 +70,17 @@ namespace FigurasGeometricas
     // Clase Triángulo
     public class Triangulo
     {
-        public double Base { get; set; }
-        public double Altura { get; set; }
 
-        public Triangulo(double @base, double altura)
+        public double CalcularArea(double ladoA, double ladoB, double ladoC)
         {
-            Base = @base;
-            Altura = altura;
-        }
+            double semiPerimetro = 0.00;
+            double calculoParaArea = 0.00;
+            double areaDelTriangulo = 0.00;
 
-        public double CalcularArea()
-        {
-            return (Base * Altura) / 2; // Área = (base * altura) / 2
+            //También se imprime 
+            semiPerimetro = (ladoA + ladoB + ladoC) / 2;
+            calculoParaArea = (semiPerimetro) * (semiPerimetro - ladoA) * (semiPerimetro - ladoB) * (semiPerimetro - ladoC);
+            return areaDelTriangulo = Math.Sqrt(calculoParaArea);
         }
 
         public double CalcularPerimetro(double lado1, double lado2, double lado3)
@@ -125,18 +124,32 @@ namespace FigurasGeometricas
 
             // 4. Triángulo
             Console.WriteLine("Cálculo para un Triángulo:");
-            Console.Write("Introduce la base del triángulo: ");
-            double baseTriangulo = Convert.ToDouble(Console.ReadLine());
-            Console.Write("Introduce la altura del triángulo: ");
-            double alturaTriangulo = Convert.ToDouble(Console.ReadLine());
             Console.Write("Introduce el lado 1 del triángulo: ");
             double lado1 = Convert.ToDouble(Console.ReadLine());
             Console.Write("Introduce el lado 2 del triángulo: ");
             double lado2 = Convert.ToDouble(Console.ReadLine());
             Console.Write("Introduce el lado 3 del triángulo: ");
             double lado3 = Convert.ToDouble(Console.ReadLine());
-            Triangulo triangulo = new Triangulo(baseTriangulo, alturaTriangulo);
-            Console.WriteLine($"Área del triángulo: {triangulo.CalcularArea()}");
+            Triangulo triangulo = new Triangulo();
+
+            //Valida qué tipo de triángulo es con base a lo ingresado
+            string tipoDeTriangulo = "";
+            if (lado1 == lado2 && lado2 == lado3)
+            {
+                tipoDeTriangulo = "Equilátero";
+            }
+            else if (lado1 == lado2 || lado2 == lado3 || lado3 == lado1)
+            {
+                tipoDeTriangulo = "Isósceles";
+            }
+            else
+            {
+                tipoDeTriangulo = "Escaleno";
+            }
+
+            //Imprime el tipo, área y perímetro
+            Console.WriteLine($"El triángulo es un {tipoDeTriangulo}");
+            Console.WriteLine($"Área del triángulo: {triangulo.CalcularArea(lado1, lado2, lado3)}");
             Console.WriteLine($"Perímetro del triángulo: {triangulo.CalcularPerimetro(lado1, lado2, lado3)}");
         }
     }
