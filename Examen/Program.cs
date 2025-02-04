@@ -17,6 +17,22 @@ namespace CalculadorDeVentas
         {
             return CantidadDeTortas + CantidadDeTacos;
         }
+
+        public string CompararVentas()
+        {
+            if (CantidadDeTacos > 3 * CantidadDeTortas)
+            {
+                return "La venta de tacos es MÁS del triple que la venta de tortas.";
+            }
+            else if (CantidadDeTacos < 3 * CantidadDeTortas)
+            {
+                return "La venta de tacos es MENOS del triple que la venta de tortas.";
+            }
+            else
+            {
+                return "La venta de tacos es EXACTAMENTE el triple que la venta de tortas.";
+            }
+        }
     }
 
     class Program
@@ -46,10 +62,12 @@ namespace CalculadorDeVentas
             CochinitaFeliz cochinitaFeliz = new CochinitaFeliz(totalTortas, totalTacos);
 
             double totalUnidades = cochinitaFeliz.CalcularTotalUnidades();
+            string resultadoComparacion = cochinitaFeliz.CompararVentas();
 
             Console.WriteLine($"La cantidad de tortas vendidas es: {totalTortas}");
             Console.WriteLine($"La cantidad de tacos vendidos es: {totalTacos}");
             Console.WriteLine($"El total de unidades vendidas es: {totalUnidades}");
+            Console.WriteLine(resultadoComparacion);
         }
     }
 }
