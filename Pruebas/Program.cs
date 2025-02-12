@@ -1,92 +1,37 @@
 ﻿using System;
 
-namespace FigurasGeometricas
+namespace CalculadorDeVentas
 {
-    // Clase base FiguraGeometrica
-    public abstract class FiguraGeometrica
+    public class CochinitaFeliz
     {
-        public abstract double CalcularArea();
-        public abstract double CalcularPerimetro();
-    }
+        public double CantidadDeTortas { get; set; }
+        public double CantidadDeTacos { get; set; }
 
-    // Clase Cuadrado
-    public class Cuadrado : FiguraGeometrica
-    {
-        public double Lado { get; set; }
-
-        public Cuadrado(double lado)
+        public CochinitaFeliz(double cantidadDeTortas, double cantidadDeTacos)
         {
-            Lado = lado;
+            CantidadDeTortas = cantidadDeTortas;
+            CantidadDeTacos = cantidadDeTacos;
         }
 
-        public override double CalcularArea()
+        public double CalcularTotalUnidades()
         {
-            return Lado * Lado; // Área = lado * lado
+            return CantidadDeTortas + CantidadDeTacos;
         }
 
-        public override double CalcularPerimetro()
+        public string CompararVentas()
         {
-            return 4 * Lado; // Perímetro = 4 * lado
-        }
-    }
-
-    // Clase Rectángulo
-    public class Rectangulo : FiguraGeometrica
-    {
-        public double Base { get; set; }
-        public double Altura { get; set; }
-
-        public Rectangulo(double @base, double altura)
-        {
-            Base = @base;
-            Altura = altura;
-        }
-
-        public override double CalcularArea()
-        {
-            return Base * Altura; // Área = base * altura
-        }
-
-        public override double CalcularPerimetro()
-        {
-            return 2 * (Base + Altura); // Perímetro = 2 * (base + altura)
-        }
-    }
-
-    // Clase Círculo
-    public class Circulo : FiguraGeometrica
-    {
-        public double Radio { get; set; }
-
-        public Circulo(double radio)
-        {
-            Radio = radio;
-        }
-
-        public override double CalcularArea()
-        {
-            return Math.PI * Radio * Radio; // Área = π * radio^2
-        }
-
-        public override double CalcularPerimetro()
-        {
-            return 2 * Math.PI * Radio; // Perímetro = 2 * π * radio
-        }
-    }
-
-    // Clase Triángulo
-    public class Triangulo : FiguraGeometrica
-    {
-        public override double CalcularArea(double ladoA, double ladoB, double ladoC)
-        {
-            double semiPerimetro = (ladoA + ladoB + ladoC) / 2;
-            double calculoParaArea = semiPerimetro * (semiPerimetro - ladoA) * (semiPerimetro - ladoB) * (semiPerimetro - ladoC);
-            return Math.Sqrt(calculoParaArea);
-        }
-
-        public override double CalcularPerimetro(double lado1, double lado2, double lado3)
-        {
-            return lado1 + lado2 + lado3; // Perímetro = lado1 + lado2 + lado3
+            if (CantidadDeTacos > 3 * CantidadDeTortas)
+            {
+                return "La venta de tacos es MÁS del triple que la venta de tortas.";
+            }
+            else if (CantidadDeTacos < 3 * CantidadDeTortas)
+            {
+                return "La venta de tacos es MENOS del triple que la venta de tortas.";
+            }
+            else
+            {
+                return "La venta de tacos es EXACTAMENTE el triple que la venta de tortas.";
+            }
         }
     }
 
@@ -94,24 +39,35 @@ namespace FigurasGeometricas
     {
         static void Main(string[] args)
         {
-            // 1. Cuadrado
-            Console.WriteLine("Cálculo para un Cuadrado:");
-            Console.Write("Introduce el lado del cuadrado: ");
-            double ladoCuadrado = Convert.ToDouble(Console.ReadLine());
-            Cuadrado cuadrado = new Cuadrado(ladoCuadrado);
-            Console.WriteLine($"Área del cuadrado: {cuadrado.CalcularArea()}");
-            Console.WriteLine($"Perímetro del cuadrado: {cuadrado.CalcularPerimetro()}");
-            Console.WriteLine();
+            double totalTortas = 0.00;
+            double totalTacos = 0.00;
 
-            // 2. Rectángulo
-            Console.WriteLine("Cálculo para un Rectángulo:");
-            Console.Write("Introduce la base del rectángulo: ");
-            double baseRectangulo = Convert.ToDouble(Console.ReadLine());
-            Console.Write("Introduce la altura del rectángulo: ");
-            double alturaRectangulo = Convert.ToDouble(Console.ReadLine());
-            Rectangulo rectangulo = new Rectangulo(baseRectangulo, alturaRectangulo);
-            Console.WriteLine($"Área del rectángulo: {rectangulo.CalcularArea()}");
-            Console.WriteLine($"Perímetro del rectángulo: {rectangulo.CalcularPerimetro()}");
+            string respuesta;
+
+            do
+            {
+                Console.WriteLine("Ingrese la cantidad de tortas:");
+                double tortas = Convert.ToDouble(Console.ReadLine());
+                totalTortas += tortas;
+
+                Console.WriteLine("Ingrese la cantidad de tacos:");
+                double tacos = Convert.ToDouble(Console.ReadLine());
+                totalTacos += tacos;
+
+                Console.WriteLine("Si desea continuar ingrese ENTER, si no escriba EXIT:");
+                respuesta = Console.ReadLine()?.ToLower() ?? "";
+
+            } while (respuesta != "exit");
+
+            CochinitaFeliz cochinitaFeliz = new CochinitaFeliz(totalTortas, totalTacos);
+
+            double totalUnidades = cochinitaFeliz.CalcularTotalUnidades();
+            string resultadoComparacion = cochinitaFeliz.CompararVentas();
+
+            Console.WriteLine($"La cantidad de tortas vendidas es: {totalTortas}");
+            Console.WriteLine($"La cantidad de tacos vendidos es: {totalTacos}");
+            Console.WriteLine($"El total de unidades vendidas es: {totalUnidades}");
+            Console.WriteLine(resultadoComparacion);
         }
-    } 
+    }
 }
