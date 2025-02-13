@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Calculo_De_Agua_m3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b6b2caf724a76a383d62a1d0269c909a0a46982")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0462f06f40f6cf94d9bc982bc3b53dc1f479a409")]
 [assembly: System.Reflection.AssemblyProductAttribute("Calculo_De_Agua_m3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Calculo_De_Agua_m3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
