@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Monto_Aguinaldo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+03a5af29b9026f6c4ad12b99100e2b4d6562369d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f369d2eeaf2394cd8535b2904e0529672abd505f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Monto_Aguinaldo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Monto_Aguinaldo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
