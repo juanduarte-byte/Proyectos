@@ -1,0 +1,15 @@
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Practica_Arreglos\obj\Debug\net8.0\Practica_Arreglos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Practica_Arreglos\obj\Debug\net8.0\Practica_Arreglos.AssemblyInfoInputs.cache
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Practica_Arreglos\obj\Debug\net8.0\Practica_Arreglos.AssemblyInfo.cs
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Practica_Arreglos\obj\Debug\net8.0\Practica_Arreglos.csproj.CoreCompileInputs.cache
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Practica_Arreglos\obj\Debug\net8.0\Practica_Arreglos.sourcelink.json
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Practica_Arreglos\bin\Debug\net8.0\Practica_Arreglos.exe
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Practica_Arreglos\bin\Debug\net8.0\Practica_Arreglos.deps.json
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Practica_Arreglos\bin\Debug\net8.0\Practica_Arreglos.runtimeconfig.json
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Practica_Arreglos\bin\Debug\net8.0\Practica_Arreglos.dll
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Practica_Arreglos\bin\Debug\net8.0\Practica_Arreglos.pdb
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Practica_Arreglos\obj\Debug\net8.0\Practica_Arreglos.dll
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Practica_Arreglos\obj\Debug\net8.0\refint\Practica_Arreglos.dll
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Practica_Arreglos\obj\Debug\net8.0\Practica_Arreglos.pdb
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Practica_Arreglos\obj\Debug\net8.0\Practica_Arreglos.genruntimeconfig.cache
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Practica_Arreglos\obj\Debug\net8.0\ref\Practica_Arreglos.dll

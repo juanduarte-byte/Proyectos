@@ -28,7 +28,7 @@ public class Tienda
 
     public Tienda (int capacidadInicial)
     {
-        productos = new Producto[capacidadInicial];
+        productos = new Producto[capacidadInicial]; // uso la variable productos
         contadorProductos = 0;
     }
 
@@ -47,7 +47,7 @@ public class Tienda
             {
                 Console.Write("Ingrese el código (8 dígitos): ");
                 codigo = Console.ReadLine();
-            } while (codigo.Length != 8 || !EsNumeroValido(codigo));
+            } while (codigo.Length != 8 || !EsNumeroValido(codigo)); //Aqí le agrego más especifícaciones que tiene que cumplir lo ingresado
 
             Producto nuevoProducto = new Producto(nombre, precio, codigo);
             productos[contadorProductos] = nuevoProducto;
@@ -59,7 +59,7 @@ public class Tienda
         }
     }
 
-    private bool EsNumeroValido(string numero)
+    private bool EsNumeroValido(string numero) //Utilizo este método para que me valide si lo que pone el usuario son digitos
     {
         foreach (char c in numero)
         {
@@ -110,7 +110,6 @@ public class Program
             Console.WriteLine("1. Agregar producto");
             Console.WriteLine("2. Mostrar productos");
             Console.WriteLine("3. Calcular precio total");
-            Console.WriteLine("4. Salir");
             Console.Write("Seleccione una opción: ");
             opcion = Console.ReadLine();
 

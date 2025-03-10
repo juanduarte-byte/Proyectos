@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\juanm\\OneDrive\\Documents\\Juan Duarte_UTM\\2do Cuatrimestre\\Programación Estructurada\\1 parcial\\Proyectos\\Examen_P2\\Examen_P2.csproj",
-      "projectName": "Examen_P2",
-      "projectPath": "C:\\Users\\juanm\\OneDrive\\Documents\\Juan Duarte_UTM\\2do Cuatrimestre\\Programación Estructurada\\1 parcial\\Proyectos\\Examen_P2\\Examen_P2.csproj",
+      "projectUniqueName": "C:\\Users\\juanm\\OneDrive\\Documents\\Juan Duarte_UTM\\2do Cuatrimestre\\Programación Estructurada\\1 parcial\\Proyectos\\Practica_Arreglos\\Practica_Arreglos.csproj",
+      "projectName": "Practica_Arreglos",
+      "projectPath": "C:\\Users\\juanm\\OneDrive\\Documents\\Juan Duarte_UTM\\2do Cuatrimestre\\Programación Estructurada\\1 parcial\\Proyectos\\Practica_Arreglos\\Practica_Arreglos.csproj",
       "packagesPath": "C:\\Users\\juanm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\juanm\\OneDrive\\Documents\\Juan Duarte_UTM\\2do Cuatrimestre\\Programación Estructurada\\1 parcial\\Proyectos\\Examen_P2\\obj\\",
+      "outputPath": "C:\\Users\\juanm\\OneDrive\\Documents\\Juan Duarte_UTM\\2do Cuatrimestre\\Programación Estructurada\\1 parcial\\Proyectos\\Practica_Arreglos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\juanm\\AppData\\Roaming\\NuGet\\NuGet.Config"
