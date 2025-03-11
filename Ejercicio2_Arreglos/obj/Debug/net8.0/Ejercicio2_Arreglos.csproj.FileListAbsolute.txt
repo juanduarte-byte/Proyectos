@@ -1,0 +1,15 @@
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Ejercicio2_Arreglos\bin\Debug\net8.0\Ejercicio2_Arreglos.exe
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Ejercicio2_Arreglos\bin\Debug\net8.0\Ejercicio2_Arreglos.deps.json
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Ejercicio2_Arreglos\bin\Debug\net8.0\Ejercicio2_Arreglos.runtimeconfig.json
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Ejercicio2_Arreglos\bin\Debug\net8.0\Ejercicio2_Arreglos.dll
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Ejercicio2_Arreglos\bin\Debug\net8.0\Ejercicio2_Arreglos.pdb
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Ejercicio2_Arreglos\obj\Debug\net8.0\Ejercicio2_Arreglos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Ejercicio2_Arreglos\obj\Debug\net8.0\Ejercicio2_Arreglos.AssemblyInfoInputs.cache
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Ejercicio2_Arreglos\obj\Debug\net8.0\Ejercicio2_Arreglos.AssemblyInfo.cs
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Ejercicio2_Arreglos\obj\Debug\net8.0\Ejercicio2_Arreglos.csproj.CoreCompileInputs.cache
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Ejercicio2_Arreglos\obj\Debug\net8.0\Ejercicio2_Arreglos.sourcelink.json
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Ejercicio2_Arreglos\obj\Debug\net8.0\Ejercicio2_Arreglos.dll
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Ejercicio2_Arreglos\obj\Debug\net8.0\refint\Ejercicio2_Arreglos.dll
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Ejercicio2_Arreglos\obj\Debug\net8.0\Ejercicio2_Arreglos.pdb
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Ejercicio2_Arreglos\obj\Debug\net8.0\Ejercicio2_Arreglos.genruntimeconfig.cache
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Ejercicio2_Arreglos\obj\Debug\net8.0\ref\Ejercicio2_Arreglos.dll

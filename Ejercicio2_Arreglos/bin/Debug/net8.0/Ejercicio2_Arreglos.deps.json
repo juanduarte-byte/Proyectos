@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ejercicio2_Arreglos/1.0.0": {
+        "runtime": {
+          "Ejercicio2_Arreglos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio2_Arreglos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
