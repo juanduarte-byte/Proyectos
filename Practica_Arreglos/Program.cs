@@ -1,5 +1,5 @@
 ﻿using System; 
-
+/*
 public class Estudiante
 {
     //Atributo que es un arreglo de calificaiones
@@ -32,3 +32,4 @@ class Program
         estudiante.MostrarCalificaciones();
     }
 }
+*/
