@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ejerc4_Inversion_Arreglo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+48121963ab932e8a9ab2448b422a079e8320b252")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba4463ae37f2d4c83d790d0d6a8d5069eb2f4e88")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ejerc4_Inversion_Arreglo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ejerc4_Inversion_Arreglo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
