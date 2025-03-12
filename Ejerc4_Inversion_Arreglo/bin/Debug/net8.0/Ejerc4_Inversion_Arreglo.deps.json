@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ejerc4_Inversion_Arreglo/1.0.0": {
+        "runtime": {
+          "Ejerc4_Inversion_Arreglo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejerc4_Inversion_Arreglo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

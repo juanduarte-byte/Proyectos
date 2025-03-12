@@ -1,0 +1,15 @@
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Ejerc4_Inversion_Arreglo\bin\Debug\net8.0\Ejerc4_Inversion_Arreglo.exe
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Ejerc4_Inversion_Arreglo\bin\Debug\net8.0\Ejerc4_Inversion_Arreglo.deps.json
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Ejerc4_Inversion_Arreglo\bin\Debug\net8.0\Ejerc4_Inversion_Arreglo.runtimeconfig.json
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Ejerc4_Inversion_Arreglo\bin\Debug\net8.0\Ejerc4_Inversion_Arreglo.dll
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Ejerc4_Inversion_Arreglo\bin\Debug\net8.0\Ejerc4_Inversion_Arreglo.pdb
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Ejerc4_Inversion_Arreglo\obj\Debug\net8.0\Ejerc4_Inversion_Arreglo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Ejerc4_Inversion_Arreglo\obj\Debug\net8.0\Ejerc4_Inversion_Arreglo.AssemblyInfoInputs.cache
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Ejerc4_Inversion_Arreglo\obj\Debug\net8.0\Ejerc4_Inversion_Arreglo.AssemblyInfo.cs
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Ejerc4_Inversion_Arreglo\obj\Debug\net8.0\Ejerc4_Inversion_Arreglo.csproj.CoreCompileInputs.cache
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Ejerc4_Inversion_Arreglo\obj\Debug\net8.0\Ejerc4_Inversion_Arreglo.sourcelink.json
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Ejerc4_Inversion_Arreglo\obj\Debug\net8.0\Ejerc4_Inversion_Arreglo.dll
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Ejerc4_Inversion_Arreglo\obj\Debug\net8.0\refint\Ejerc4_Inversion_Arreglo.dll
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Ejerc4_Inversion_Arreglo\obj\Debug\net8.0\Ejerc4_Inversion_Arreglo.pdb
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Ejerc4_Inversion_Arreglo\obj\Debug\net8.0\Ejerc4_Inversion_Arreglo.genruntimeconfig.cache
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Ejerc4_Inversion_Arreglo\obj\Debug\net8.0\ref\Ejerc4_Inversion_Arreglo.dll
