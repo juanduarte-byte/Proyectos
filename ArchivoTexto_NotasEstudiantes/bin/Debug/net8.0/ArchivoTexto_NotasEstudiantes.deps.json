@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ArchivoTexto_NotasEstudiantes/1.0.0": {
+        "runtime": {
+          "ArchivoTexto_NotasEstudiantes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ArchivoTexto_NotasEstudiantes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

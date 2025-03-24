@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Archivo_De_Textos_Guardar_Nombres/1.0.0": {
+        "runtime": {
+          "Archivo_De_Textos_Guardar_Nombres.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Archivo_De_Textos_Guardar_Nombres/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

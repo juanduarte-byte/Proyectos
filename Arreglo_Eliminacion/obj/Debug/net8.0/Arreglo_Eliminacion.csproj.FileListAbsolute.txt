@@ -1,0 +1,15 @@
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Arreglo_Eliminacion\bin\Debug\net8.0\Arreglo_Eliminacion.exe
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Arreglo_Eliminacion\bin\Debug\net8.0\Arreglo_Eliminacion.deps.json
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Arreglo_Eliminacion\bin\Debug\net8.0\Arreglo_Eliminacion.runtimeconfig.json
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Arreglo_Eliminacion\bin\Debug\net8.0\Arreglo_Eliminacion.dll
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Arreglo_Eliminacion\bin\Debug\net8.0\Arreglo_Eliminacion.pdb
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Arreglo_Eliminacion\obj\Debug\net8.0\Arreglo_Eliminacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Arreglo_Eliminacion\obj\Debug\net8.0\Arreglo_Eliminacion.AssemblyInfoInputs.cache
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Arreglo_Eliminacion\obj\Debug\net8.0\Arreglo_Eliminacion.AssemblyInfo.cs
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Arreglo_Eliminacion\obj\Debug\net8.0\Arreglo_Eliminacion.csproj.CoreCompileInputs.cache
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Arreglo_Eliminacion\obj\Debug\net8.0\Arreglo_Eliminacion.sourcelink.json
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Arreglo_Eliminacion\obj\Debug\net8.0\Arreglo_Eliminacion.dll
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Arreglo_Eliminacion\obj\Debug\net8.0\refint\Arreglo_Eliminacion.dll
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Arreglo_Eliminacion\obj\Debug\net8.0\Arreglo_Eliminacion.pdb
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Arreglo_Eliminacion\obj\Debug\net8.0\Arreglo_Eliminacion.genruntimeconfig.cache
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Arreglo_Eliminacion\obj\Debug\net8.0\ref\Arreglo_Eliminacion.dll

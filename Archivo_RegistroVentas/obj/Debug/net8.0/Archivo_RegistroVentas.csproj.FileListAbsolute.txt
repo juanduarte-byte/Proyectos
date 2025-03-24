@@ -1,0 +1,15 @@
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Archivo_RegistroVentas\bin\Debug\net8.0\Archivo_RegistroVentas.exe
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Archivo_RegistroVentas\bin\Debug\net8.0\Archivo_RegistroVentas.deps.json
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Archivo_RegistroVentas\bin\Debug\net8.0\Archivo_RegistroVentas.runtimeconfig.json
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Archivo_RegistroVentas\bin\Debug\net8.0\Archivo_RegistroVentas.dll
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Archivo_RegistroVentas\bin\Debug\net8.0\Archivo_RegistroVentas.pdb
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Archivo_RegistroVentas\obj\Debug\net8.0\Archivo_RegistroVentas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Archivo_RegistroVentas\obj\Debug\net8.0\Archivo_RegistroVentas.AssemblyInfoInputs.cache
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Archivo_RegistroVentas\obj\Debug\net8.0\Archivo_RegistroVentas.AssemblyInfo.cs
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Archivo_RegistroVentas\obj\Debug\net8.0\Archivo_RegistroVentas.csproj.CoreCompileInputs.cache
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Archivo_RegistroVentas\obj\Debug\net8.0\Archivo_RegistroVentas.sourcelink.json
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Archivo_RegistroVentas\obj\Debug\net8.0\Archivo_RegistroVentas.dll
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Archivo_RegistroVentas\obj\Debug\net8.0\refint\Archivo_RegistroVentas.dll
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Archivo_RegistroVentas\obj\Debug\net8.0\Archivo_RegistroVentas.pdb
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Archivo_RegistroVentas\obj\Debug\net8.0\Archivo_RegistroVentas.genruntimeconfig.cache
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Archivo_RegistroVentas\obj\Debug\net8.0\ref\Archivo_RegistroVentas.dll

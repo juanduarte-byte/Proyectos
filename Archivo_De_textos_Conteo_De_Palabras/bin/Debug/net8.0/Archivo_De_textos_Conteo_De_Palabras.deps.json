@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Archivo_De_textos_Conteo_De_Palabras/1.0.0": {
+        "runtime": {
+          "Archivo_De_textos_Conteo_De_Palabras.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Archivo_De_textos_Conteo_De_Palabras/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

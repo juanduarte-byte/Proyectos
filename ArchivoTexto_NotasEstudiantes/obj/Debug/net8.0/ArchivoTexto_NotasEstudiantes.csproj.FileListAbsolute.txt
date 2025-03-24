@@ -1,0 +1,15 @@
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\ArchivoTexto_NotasEstudiantes\bin\Debug\net8.0\ArchivoTexto_NotasEstudiantes.exe
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\ArchivoTexto_NotasEstudiantes\bin\Debug\net8.0\ArchivoTexto_NotasEstudiantes.deps.json
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\ArchivoTexto_NotasEstudiantes\bin\Debug\net8.0\ArchivoTexto_NotasEstudiantes.runtimeconfig.json
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\ArchivoTexto_NotasEstudiantes\bin\Debug\net8.0\ArchivoTexto_NotasEstudiantes.dll
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\ArchivoTexto_NotasEstudiantes\bin\Debug\net8.0\ArchivoTexto_NotasEstudiantes.pdb
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\ArchivoTexto_NotasEstudiantes\obj\Debug\net8.0\ArchivoTexto_NotasEstudiantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\ArchivoTexto_NotasEstudiantes\obj\Debug\net8.0\ArchivoTexto_NotasEstudiantes.AssemblyInfoInputs.cache
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\ArchivoTexto_NotasEstudiantes\obj\Debug\net8.0\ArchivoTexto_NotasEstudiantes.AssemblyInfo.cs
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\ArchivoTexto_NotasEstudiantes\obj\Debug\net8.0\ArchivoTexto_NotasEstudiantes.csproj.CoreCompileInputs.cache
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\ArchivoTexto_NotasEstudiantes\obj\Debug\net8.0\ArchivoTexto_NotasEstudiantes.sourcelink.json
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\ArchivoTexto_NotasEstudiantes\obj\Debug\net8.0\ArchivoTexto_NotasEstudiantes.dll
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\ArchivoTexto_NotasEstudiantes\obj\Debug\net8.0\refint\ArchivoTexto_NotasEstudiantes.dll
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\ArchivoTexto_NotasEstudiantes\obj\Debug\net8.0\ArchivoTexto_NotasEstudiantes.pdb
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\ArchivoTexto_NotasEstudiantes\obj\Debug\net8.0\ArchivoTexto_NotasEstudiantes.genruntimeconfig.cache
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\ArchivoTexto_NotasEstudiantes\obj\Debug\net8.0\ref\ArchivoTexto_NotasEstudiantes.dll

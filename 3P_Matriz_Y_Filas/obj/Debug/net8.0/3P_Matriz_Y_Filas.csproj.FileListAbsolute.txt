@@ -1,0 +1,15 @@
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\3P_Matriz_Y_Filas\bin\Debug\net8.0\3P_Matriz_Y_Filas.exe
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\3P_Matriz_Y_Filas\bin\Debug\net8.0\3P_Matriz_Y_Filas.deps.json
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\3P_Matriz_Y_Filas\bin\Debug\net8.0\3P_Matriz_Y_Filas.runtimeconfig.json
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\3P_Matriz_Y_Filas\bin\Debug\net8.0\3P_Matriz_Y_Filas.dll
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\3P_Matriz_Y_Filas\bin\Debug\net8.0\3P_Matriz_Y_Filas.pdb
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\3P_Matriz_Y_Filas\obj\Debug\net8.0\3P_Matriz_Y_Filas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\3P_Matriz_Y_Filas\obj\Debug\net8.0\3P_Matriz_Y_Filas.AssemblyInfoInputs.cache
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\3P_Matriz_Y_Filas\obj\Debug\net8.0\3P_Matriz_Y_Filas.AssemblyInfo.cs
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\3P_Matriz_Y_Filas\obj\Debug\net8.0\3P_Matriz_Y_Filas.csproj.CoreCompileInputs.cache
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\3P_Matriz_Y_Filas\obj\Debug\net8.0\3P_Matriz_Y_Filas.sourcelink.json
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\3P_Matriz_Y_Filas\obj\Debug\net8.0\3P_Matriz_Y_Filas.dll
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\3P_Matriz_Y_Filas\obj\Debug\net8.0\refint\3P_Matriz_Y_Filas.dll
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\3P_Matriz_Y_Filas\obj\Debug\net8.0\3P_Matriz_Y_Filas.pdb
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\3P_Matriz_Y_Filas\obj\Debug\net8.0\3P_Matriz_Y_Filas.genruntimeconfig.cache
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\3P_Matriz_Y_Filas\obj\Debug\net8.0\ref\3P_Matriz_Y_Filas.dll
