@@ -1,0 +1,15 @@
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Gestion_Inventario_Tienda\bin\Debug\net8.0\Gestion_Inventario_Tienda.exe
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Gestion_Inventario_Tienda\bin\Debug\net8.0\Gestion_Inventario_Tienda.deps.json
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Gestion_Inventario_Tienda\bin\Debug\net8.0\Gestion_Inventario_Tienda.runtimeconfig.json
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Gestion_Inventario_Tienda\bin\Debug\net8.0\Gestion_Inventario_Tienda.dll
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Gestion_Inventario_Tienda\bin\Debug\net8.0\Gestion_Inventario_Tienda.pdb
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Gestion_Inventario_Tienda\obj\Debug\net8.0\Gestion_Inventario_Tienda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Gestion_Inventario_Tienda\obj\Debug\net8.0\Gestion_Inventario_Tienda.AssemblyInfoInputs.cache
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Gestion_Inventario_Tienda\obj\Debug\net8.0\Gestion_Inventario_Tienda.AssemblyInfo.cs
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Gestion_Inventario_Tienda\obj\Debug\net8.0\Gestion_Inventario_Tienda.csproj.CoreCompileInputs.cache
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Gestion_Inventario_Tienda\obj\Debug\net8.0\Gestion_Inventario_Tienda.sourcelink.json
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Gestion_Inventario_Tienda\obj\Debug\net8.0\Gestion_Inventario_Tienda.dll
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Gestion_Inventario_Tienda\obj\Debug\net8.0\refint\Gestion_Inventario_Tienda.dll
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Gestion_Inventario_Tienda\obj\Debug\net8.0\Gestion_Inventario_Tienda.pdb
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Gestion_Inventario_Tienda\obj\Debug\net8.0\Gestion_Inventario_Tienda.genruntimeconfig.cache
+C:\Users\juanm\OneDrive\Documents\Juan Duarte_UTM\2do Cuatrimestre\Programación Estructurada\1 parcial\Proyectos\Gestion_Inventario_Tienda\obj\Debug\net8.0\ref\Gestion_Inventario_Tienda.dll
