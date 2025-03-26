@@ -5,7 +5,7 @@ class Program
 {
     static void Main()
     {
-        // Paso 1: Ingresar datos de productos
+        // Ingresar datos de productos
         Console.WriteLine("Ingrese los datos del producto:");
         
         Console.Write("Código del producto: ");
@@ -20,11 +20,11 @@ class Program
         Console.Write("Precio unitario: ");
         decimal precio = decimal.Parse(Console.ReadLine());
 
-        // Paso 2: Guardar en archivo
+        // Guardar en archivo
         string linea = $"{codigo},{nombre},{cantidad},{precio}";
         File.AppendAllText("inventario.json", linea + Environment.NewLine);
 
-        // Paso 3: Leer y mostrar archivo
+        // Leer y mostrar archivo
         Console.WriteLine("\nProductos registrados:");
         if (File.Exists("inventario.json"))
         {
