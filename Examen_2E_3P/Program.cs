@@ -57,7 +57,7 @@ class Inventario
     // Agrega un nuevo producto
     public void AgregarProducto(Producto producto)
     {
-        productos.Add(producto);
+        productos.Add(producto); //Añade un producto a la línea y guarda el archivo
         GuardarProductos();
     }
 
@@ -95,7 +95,7 @@ class Inventario
         }
     }
 
-    // Realiza una compra (reduce el stock)
+    // Realiza una compra, ó de otra manera, reduce el stock.
     public void ComprarProducto(string codigo, int cantidad)
     {
         var producto = productos.Find(p => p.Codigo == codigo);
@@ -167,7 +167,7 @@ class Program
         Console.Write("Seleccione una opción: ");
     }
 
-    // Proceso para agregar un producto
+    // Procesa para agregar un producto
     static void AgregarProducto(Inventario inventario)
     {
         Console.WriteLine("\nNUEVO PRODUCTO");
@@ -195,7 +195,7 @@ class Program
         Console.WriteLine("Producto agregado correctamente.");
     }
 
-    // Proceso para buscar productos
+    // Procesa para buscar productos
     static void BuscarProducto(Inventario inventario)
     {
         Console.Write("\nIngrese término de búsqueda: ");
@@ -203,7 +203,7 @@ class Program
         inventario.BuscarProductos(termino);
     }
 
-    // Proceso para comprar productos
+    // Procesa para comprar productos
     static void ComprarProducto(Inventario inventario)
     {
         Console.Write("\nCódigo del producto a comprar: ");
